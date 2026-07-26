@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @DanjumaCode
-- 🌱 I’m currently learning HTML&CSS
-- 💞️ I’m looking forward to become a full stack developer 
-- 📫 Message me on Whatsapp:09037734029
+
 
 
 <!---
